@@ -1,0 +1,40 @@
+.container {
+  width: 300px;
+  height: 300px;
+}
+.container h2 {
+  text-align: center;
+}
+.cities-list {
+  margin-left: 82px;
+}
+.city-name {
+  width: 300px;
+  height: 29px;
+  text-align: center;
+}
+.features li {
+  list-style-type: none;
+}
+.temp {
+  width: 300px;
+  height: 18px;
+  text-align: center;
+}
+.precipitation {
+  height: 18px;
+  width: 300px;
+  text-align: center;
+}
+.features {
+  width: 200px;
+  height: 200px;
+  margin-left: 43px;
+}
+.weather_content {
+  border: 1px solid black;
+  margin-top: 15px;
+}
+.temp-feels{
+    text-align: center;
+}
